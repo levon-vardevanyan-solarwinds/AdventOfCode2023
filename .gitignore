@@ -1,3 +1,5 @@
+**/.DS_Store
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,9 @@
 *.exe
 *.out
 *.app
+
+# Racket
+*~
+*.bak
+\#*
+.\#*
