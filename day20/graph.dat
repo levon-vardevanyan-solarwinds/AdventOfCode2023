@@ -1,0 +1,168 @@
+digraph {
+  xx -> nt
+  xx -> dj
+  xf -> kd
+  xc -> jc
+  xc -> bz
+  zp -> px
+  zp -> gp
+  zp -> cl
+  zp -> bh
+  zp -> fn
+  zp -> ls
+  zp -> hs
+  xm -> bz
+  zl -> zp
+  zl -> cl
+  xp -> bz
+  xp -> bj
+  zh -> rx
+  zx -> zl
+  zx -> zp
+  vd -> zh
+  tf -> lt
+  tf -> dj
+  ts -> zp
+  ts -> fc
+  vp -> dj
+  vp -> vr
+  vr -> dj
+  vr -> mb
+  px -> zx
+  pc -> cc
+  pm -> fj
+  pz -> sr
+  pz -> nx
+  sr -> nx
+  rb -> gz
+  rb -> dj
+  pr -> hb
+  ns -> zh
+  nx -> gl
+  nx -> br
+  nx -> pr
+  nx -> xf
+  nx -> vd
+  nx -> gj
+  nx -> kd
+  mj -> zp
+  mj -> gp
+  nl -> bz
+  nl -> pm
+  ls -> hs
+  ls -> zp
+  lq -> rb
+  mb -> xx
+  mx -> gl
+  mx -> nx
+  nt -> dj
+  nt -> lq
+  md -> ts
+  md -> zp
+  lt -> dj
+  jc -> bz
+  jc -> xm
+  kd -> hq
+  hs -> fn
+  jp -> xc
+  hq -> gj
+  hq -> nx
+  hb -> jl
+  hb -> nx
+  jl -> nx
+  jl -> pz
+  fc -> zp
+  df -> dj
+  df -> tf
+  dl -> zh
+  gl -> pr
+  fn -> px
+  dc -> dj
+  dc -> vp
+  gp -> md
+  dj -> lq
+  dj -> mb
+  dj -> dc
+  dj -> ns
+  dj -> gz
+  gz -> df
+  gj -> mx
+  fj -> pc
+  bv -> bz
+  bv -> nl
+  cc -> xp
+  br -> nx
+  br -> xf
+  cl -> mj
+  bh -> zh
+  broadcaster -> ls
+  broadcaster -> bv
+  broadcaster -> dc
+  broadcaster -> br
+  bz -> pm
+  bz -> pc
+  bz -> bv
+  bz -> dl
+  bz -> jp
+  bz -> fj
+  bz -> cc
+  bj -> jp
+  bj -> bz
+  xx [color="blue"]
+  xf [color="blue"]
+  xc [color="blue"]
+  zp [color="red"]
+  xm [color="blue"]
+  zl [color="blue"]
+  xp [color="blue"]
+  zh [color="red"]
+  zx [color="blue"]
+  vd [color="red"]
+  tf [color="blue"]
+  ts [color="blue"]
+  vp [color="blue"]
+  vr [color="blue"]
+  px [color="blue"]
+  pc [color="blue"]
+  pm [color="blue"]
+  pz [color="blue"]
+  sr [color="blue"]
+  rb [color="blue"]
+  pr [color="blue"]
+  ns [color="red"]
+  nx [color="red"]
+  mj [color="blue"]
+  nl [color="blue"]
+  ls [color="blue"]
+  lq [color="blue"]
+  mb [color="blue"]
+  mx [color="blue"]
+  nt [color="blue"]
+  md [color="blue"]
+  lt [color="blue"]
+  jc [color="blue"]
+  kd [color="blue"]
+  hs [color="blue"]
+  jp [color="blue"]
+  hq [color="blue"]
+  hb [color="blue"]
+  jl [color="blue"]
+  fc [color="blue"]
+  df [color="blue"]
+  dl [color="red"]
+  gl [color="blue"]
+  fn [color="blue"]
+  dc [color="blue"]
+  gp [color="blue"]
+  dj [color="red"]
+  gz [color="blue"]
+  gj [color="blue"]
+  fj [color="blue"]
+  bv [color="blue"]
+  cc [color="blue"]
+  br [color="blue"]
+  cl [color="blue"]
+  bh [color="red"]
+  bz [color="red"]
+  bj [color="blue"]
+}
